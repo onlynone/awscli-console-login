@@ -11,6 +11,3 @@ requests = "*"
 ipdb = "*"
 responses = "*"
 pypandoc = "*"
-
-[requires]
-python_version = "3.6"
